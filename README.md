@@ -6,10 +6,6 @@
 - 🌱 I’m currently learning **MERN Stack**
 - ⚡ Fun fact : I also do Photo/Video Editing 🖌️
 
-// ### Some projects :
-
-// - https://pokedex-fefkh02le-clara-garcia.vercel.app/
-// - https://wlm.vercel.app/
 
 ##
 
