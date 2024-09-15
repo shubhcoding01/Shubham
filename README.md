@@ -1,5 +1,5 @@
 # Hi there, I'm Shubham <img width="30px" src="https://cdn3.emoji.gg/emojis/wavegif_1860.gif" />
-<img align="right" alt="PNG" height="400px" src="https://ibb.co/nfdtxqZ" />
+<img align="right" alt="PNG" height="400px" src="[https://ibb.co/nfdtxqZ]" />
 
 - 👨‍💻 I’m currently working as * Freelancer ** as a **Software Engineer**
 - 📚 I’m pursuing **BCA**
